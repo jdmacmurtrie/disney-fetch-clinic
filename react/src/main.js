@@ -1,9 +1,9 @@
 import 'babel-polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MoviesContainer from './containers/MoviesContainer';
+import App from './containers/App';
 
 ReactDOM.render(
-  <MoviesContainer />,
+  <App />,
   document.getElementById('app')
 )
