@@ -13,12 +13,9 @@ Dir[File.join(File.dirname(__FILE__), 'app', '**', '*.rb')].each do |file|
   also_reload file
 end
 
-# HOW TO READ OUR FILE:
 def read_movies
   JSON.parse(File.read("movies.json"))
 end
-
-# API ENDPOINTS
 
 get "/api/v1/movies" do
   movies = read_movies

@@ -2,7 +2,7 @@ import React from 'react';
 
 const TextInputField = props => {
   return(
-    <label onChange={props.handleChange}>{props.label}
+    <label>{props.label}
       <input
         name={props.name}
         type='text'
