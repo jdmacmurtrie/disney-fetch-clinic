@@ -11,48 +11,6 @@
       "title": "Alice in Wonderland",
       "release_year": 1951,
       "runtime": 75
-    },
-    {
-      "id": 3,
-      "title": "Peter Pan",
-      "release_year": 1953,
-      "runtime": 76
-    },
-    {
-      "id": 4,
-      "title": "One Hundred and One Dalmations",
-      "release_year": 1961,
-      "runtime": 79
-    },
-    {
-      "id": 5,
-      "title": "The Aristocats",
-      "release_year": 1970,
-      "runtime": 78
-    },
-    {
-      "title": "The Jungle Book",
-      "release_year": "1963",
-      "runtime": "78",
-      "id": 6
-    },
-    {
-      "title": "Robin Hood",
-      "release_year": "1973",
-      "runtime": "83",
-      "id": 7
-    },
-    {
-      "title": "Sword in the Stone",
-      "release_year": "1963",
-      "runtime": "79",
-      "id": 8
-    },
-    {
-      "title": "The Rescuers",
-      "release_year": "1977",
-      "runtime": "77",
-      "id": 9
     }
   ]
 }
