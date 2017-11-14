@@ -7,13 +7,13 @@ class FormContainer extends Component {
     this.state = {
     }
     this.handleFormSubmit = this.handleFormSubmit.bind(this)
-    this.handleClear = this.handleClear.bind(this)
+    this.handleClearForm = this.handleClearForm.bind(this)
   }
 
   handleFormSubmit(event) {
   }
 
-  handleClear(event) {
+  handleClearForm(event) {
   }
 
   render() {
@@ -39,4 +39,5 @@ class FormContainer extends Component {
     )
   }
 }
+
 export default FormContainer;

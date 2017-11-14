@@ -20,9 +20,7 @@ class MoviesContainer extends Component {
           movies={this.state.movies}
         />
         <hr />
-        <FormContainer
-        addNewMovie={this.addNewMovie}
-        />
+        <FormContainer />
       </div>
     )
   }
@@ -30,4 +28,3 @@ class MoviesContainer extends Component {
 }
 
 export default MoviesContainer;
-//http://onypen.com/i/2017/07/disney-castle-wallpapers-wide.jpg

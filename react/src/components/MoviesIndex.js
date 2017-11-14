@@ -13,6 +13,7 @@ const MoviesIndex = props => {
       />
     )
   })
+  
   return(
     <ul>
       {movies}
