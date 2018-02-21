@@ -1,8 +1,8 @@
 import React from 'react';
 
-const TextInputField = props => {
+const InputField = props => {
   return(
-    <label>{props.label}
+    <label>
       <input
         type='text'
       />
@@ -10,4 +10,4 @@ const TextInputField = props => {
   )
 }
 
-export default TextInputField;
+export default InputField;

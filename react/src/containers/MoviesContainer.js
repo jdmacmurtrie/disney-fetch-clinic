@@ -20,7 +20,6 @@ class MoviesContainer extends Component {
           movies={this.state.movies}
         />
         <hr />
-        <FormContainer />
       </div>
     )
   }
